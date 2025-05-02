@@ -1,5 +1,5 @@
 services:
   immich-server:
-    image: ghcr.io/immich-app/immich-server:v1.132.1@sha256:71cb6d2a6587f6481ae22b1cd743c74f163acbf26ade4df890e4425bb1f2e891
+    image: ghcr.io/immich-app/immich-server:v1.132.1
   immich-machine-learning:
-    image: ghcr.io/immich-app/immich-machine-learning:v1.132.1@sha256:48fc9c8315a00e1856cb9dff1db626ec8c7f1e424d60a6002c7f04ce94fdfa9a
+    image: ghcr.io/immich-app/immich-machine-learning:v1.132.1
