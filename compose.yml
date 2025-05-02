@@ -1,5 +1,3 @@
 services:
-  immich-server:
-    image: ghcr.io/immich-app/immich-server:v1.132.1
   immich-machine-learning:
     image: ghcr.io/immich-app/immich-machine-learning:v1.132.1
